@@ -1,1 +1,1 @@
-# BookRecommenderSystem
+# Book Recommender System Based on Collaborative Filtering
